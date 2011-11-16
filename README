@@ -1,0 +1,2 @@
+split view tamplate demo with storyboard. data is from the simulator of app.
+using NSFileManager to get files list from your simulator's documents/pdffiles folder.
